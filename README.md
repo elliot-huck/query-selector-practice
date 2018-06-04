@@ -1,0 +1,1 @@
+Practice accessing DOM elements using .querySelector
